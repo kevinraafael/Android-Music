@@ -56,7 +56,7 @@ public class ThirdFragment extends Fragment {
                 //toast.show();
                 switch (i){
                     case 0:
-                        Toast toast0 = Toast.makeText(getContext(),"Guns and Roses : Use your llusion 2",Toast.LENGTH_LONG);
+                        Toast toast0 = Toast.makeText(getContext(),"Guns and Roses : Use your llusion ",Toast.LENGTH_LONG);
                         toast0.show();
                         break;
                     case 1: Toast toast1 = Toast.makeText(getContext(),"(What's the Story) Morning Glory?",Toast.LENGTH_LONG);
